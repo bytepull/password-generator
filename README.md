@@ -7,3 +7,5 @@ Features:
 * ✅ Choose the length of the password
 * ✅ Auto-copy on the clipboard
 * ✅ Auot-delete the clipboard
+
+![password-generator.gif](password-generator.gif)
